@@ -1,0 +1,4 @@
+.films { max-width: 800px; margin: 0 auto; padding: 1rem; text-align: left; }
+.films ul { list-style: none; padding: 0; }
+.films li { margin-bottom: 1.5rem; padding: 1rem; border: 1px solid #8884; border-radius: 8px; }
+.films li p { white-space: pre-line; }
